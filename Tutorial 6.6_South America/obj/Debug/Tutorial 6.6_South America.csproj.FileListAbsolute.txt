@@ -1,0 +1,10 @@
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\obj\Debug\Tutorial 6.6_South America.csprojResolveAssemblyReference.cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\obj\Debug\Tutorial_6._6_South_America.Form1.resources
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\obj\Debug\Tutorial_6._6_South_America.Properties.Resources.resources
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\obj\Debug\Tutorial 6.6_South America.csproj.GenerateResource.Cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\obj\Debug\Tutorial 6.6_South America.csproj.CoreCompileInputs.cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\bin\Debug\Tutorial 6.6_South America.exe.config
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\bin\Debug\Tutorial 6.6_South America.exe
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\bin\Debug\Tutorial 6.6_South America.pdb
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\obj\Debug\Tutorial 6.6_South America.exe
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 6.6_South America\obj\Debug\Tutorial 6.6_South America.pdb
