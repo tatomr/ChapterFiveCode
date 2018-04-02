@@ -1,0 +1,10 @@
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\bin\Debug\Calculate Running Total.exe.config
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\bin\Debug\Calculate Running Total.exe
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\bin\Debug\Calculate Running Total.pdb
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\obj\Debug\Calculate Running Total.csprojResolveAssemblyReference.cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\obj\Debug\Calculate_Running_Total.Sales.resources
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\obj\Debug\Calculate_Running_Total.Properties.Resources.resources
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\obj\Debug\Calculate Running Total.csproj.GenerateResource.Cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\obj\Debug\Calculate Running Total.csproj.CoreCompileInputs.cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\obj\Debug\Calculate Running Total.exe
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Calculate Running Total\obj\Debug\Calculate Running Total.pdb

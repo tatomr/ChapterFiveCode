@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\bin\Debug\ChapterFiveTutoials.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\bin\Debug\ChapterFiveTutoials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\bin\Debug\ChapterFiveTutoials.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\obj\Debug\Tutorial 1 - 2.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\obj\Debug\ChapterFiveTutoials.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\obj\Debug\ChapterFiveTutoials.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\obj\Debug\Tutorial 1 - 2.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\obj\Debug\Tutorial 1 - 2.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\obj\Debug\ChapterFiveTutoials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\ChapterFiveTutoials\ChapterFiveTutoials\obj\Debug\ChapterFiveTutoials.pdb
