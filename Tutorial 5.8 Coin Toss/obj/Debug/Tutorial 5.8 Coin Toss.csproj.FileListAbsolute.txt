@@ -1,0 +1,10 @@
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\bin\Debug\Tutorial 5.8 Coin Toss.exe.config
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\bin\Debug\Tutorial 5.8 Coin Toss.exe
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\bin\Debug\Tutorial 5.8 Coin Toss.pdb
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\obj\Debug\Tutorial 5.8 Coin Toss.csprojResolveAssemblyReference.cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\obj\Debug\Tutorial_5._8_Coin_Toss.Form1.resources
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\obj\Debug\Tutorial_5._8_Coin_Toss.Properties.Resources.resources
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\obj\Debug\Tutorial 5.8 Coin Toss.csproj.GenerateResource.Cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\obj\Debug\Tutorial 5.8 Coin Toss.csproj.CoreCompileInputs.cache
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\obj\Debug\Tutorial 5.8 Coin Toss.exe
+C:\Users\tatomr\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5.8 Coin Toss\obj\Debug\Tutorial 5.8 Coin Toss.pdb

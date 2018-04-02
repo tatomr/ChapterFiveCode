@@ -1,0 +1,10 @@
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\bin\Debug\Ending Balance.exe.config
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\bin\Debug\Ending Balance.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\bin\Debug\Ending Balance.pdb
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\obj\Debug\Tutorial 5.4_ Data to Text.csprojResolveAssemblyReference.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\obj\Debug\Ending_Balance.Form1.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\obj\Debug\Ending_Balance.Properties.Resources.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\obj\Debug\Tutorial 5.4_ Data to Text.csproj.GenerateResource.Cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\obj\Debug\Tutorial 5.4_ Data to Text.csproj.CoreCompileInputs.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\obj\Debug\Ending Balance.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Ending Balance\obj\Debug\Ending Balance.pdb
