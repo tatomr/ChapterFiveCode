@@ -1,0 +1,10 @@
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\bin\Debug\Tutorial 5-5 Friend File II.exe.config
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\bin\Debug\Tutorial 5-5 Friend File II.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\bin\Debug\Tutorial 5-5 Friend File II.pdb
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\obj\Debug\Tutorial 5-5 Friend File II.csprojResolveAssemblyReference.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\obj\Debug\Tutorial_5_5_Friend_File_II.Form1.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\obj\Debug\Tutorial_5_5_Friend_File_II.Properties.Resources.resources
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\obj\Debug\Tutorial 5-5 Friend File II.csproj.GenerateResource.Cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\obj\Debug\Tutorial 5-5 Friend File II.csproj.CoreCompileInputs.cache
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\obj\Debug\Tutorial 5-5 Friend File II.exe
+C:\Users\Cyberlab\Dropbox\Education\Database & Programming\C# Files\ChapterFiveCode\ChapterFiveTutoials\Tutorial 5-5 Friend File II\obj\Debug\Tutorial 5-5 Friend File II.pdb
